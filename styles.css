@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #74d30e;
+}
+
+ .container {
+	display: flex;
+	align-items: flex-start;
+} 
+
+.cat {
+	margin: 1rem;
+	padding: 0.5rem;
+	border: solid red 5px;
+	font-size: 30px;
+	align-items: flex-start;
+	}
+
+.title {
+	text-align: center;
+	padding: 1rem;
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
